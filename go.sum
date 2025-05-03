@@ -1,0 +1,6 @@
+github.com/yudohartono/go-say-hello v1.0.0 h1:ukXMrlUhPjsVhH0eLkUO/K+buJ2yKFgphjJmRlMO4xU=
+github.com/yudohartono/go-say-hello v1.0.0/go.mod h1:rIgjxlo+4xC8+ePCPxpKF/u/bSuc0kuPZkYVZXbjvJU=
+github.com/yudohartono/go-say-hello v1.5.0 h1:QwVemnJpPQUJhepxDGxhQh6BqSHb0xDEB+YcR6OFCiM=
+github.com/yudohartono/go-say-hello v1.5.0/go.mod h1:rIgjxlo+4xC8+ePCPxpKF/u/bSuc0kuPZkYVZXbjvJU=
+github.com/yudohartono/go-say-hello/v2 v2.0.0 h1:AgsPY7bSc4g6w9Mr6mWXXzucNA7hcTboRGC/srDicX8=
+github.com/yudohartono/go-say-hello/v2 v2.0.0/go.mod h1:MN5y6sdBZjcYVUwFxhtCtbRfAxILqZHceAvEUA8EZME=
